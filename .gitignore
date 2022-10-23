@@ -1,0 +1,4 @@
+# Ignore csv files
+*.csv
+.DS_Store
+.ipynb_checkpoints/
